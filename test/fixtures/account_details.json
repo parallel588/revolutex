@@ -1,0 +1,19 @@
+[
+  {
+    "bank_country": "GB",
+    "beneficiary": "Revolut LTD",
+    "beneficiary_address": {
+      "city": "London",
+      "country": "GB",
+      "postcode": "E14 5AB",
+      "street_line1": "Revolut LTD, Level39",
+      "street_line2": "1 Canada Square"
+    },
+    "bic": "LOYDGB2L",
+    "estimated_time": {"max": 3, "min": 1, "unit": "days"},
+    "iban": "GB06 LOYD 3080 1211 8564 72",
+    "pooled": true,
+    "schemes": ["sepa", "swift"],
+    "unique_reference": "75798559"
+  }
+]

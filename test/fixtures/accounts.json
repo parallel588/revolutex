@@ -1,0 +1,42 @@
+[
+  {
+    "balance": 1000000,
+    "created_at": "2019-02-13T06:43:27.609Z",
+    "currency": "GBP",
+    "id": "1466dece-fb65-4114-a8f2-a0b35c97da90",
+    "name": "Main-F",
+    "public": true,
+    "state": "active",
+    "updated_at": "2019-02-18T10:48:55.368Z"
+  },
+  {
+    "balance": 1000000,
+    "created_at": "2019-02-13T06:43:27.609Z",
+    "currency": "EUR",
+    "id": "802feda7-7423-4d79-ad27-fbf641277c9f",
+    "name": "Main",
+    "public": true,
+    "state": "active",
+    "updated_at": "2019-02-13T06:43:27.628Z"
+  },
+  {
+    "balance": 999650,
+    "created_at": "2019-02-13T06:43:27.609Z",
+    "currency": "USD",
+    "id": "47a31924-2e77-4cf1-aafe-b0b97000f5f9",
+    "name": "Main-G",
+    "public": true,
+    "state": "active",
+    "updated_at": "2019-02-22T12:36:01.994Z"
+  },
+  {
+    "balance": 350,
+    "created_at": "2019-02-18T14:04:01.568Z",
+    "currency": "USD",
+    "id": "a4e35949-465d-4f05-beb1-1c586cf822ce",
+    "name": "USD-S",
+    "public": false,
+    "state": "active",
+    "updated_at": "2019-02-22T12:36:01.994Z"
+  }
+]

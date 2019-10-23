@@ -7,3 +7,11 @@ erl_crash.dump
 *.ez
 *.beam
 /config/*.secret.exs
+revolutex-*.tar
+.DS_Store
+tags
+/.elixir_ls
+/.idea
+*.iml
+priv/plts/*
+
